@@ -1,3 +1,3 @@
 # Shopping-Fever
 
-#build using HTML, CSS and JS
+# build using HTML, CSS and JS
