@@ -1,4 +1,4 @@
 # Shopping-Fever
 
-build using HTML, CSS and JS.
-It uses local storage to store local data i.e.cart details of an individual.
+The Project is build using HTML, CSS and vanilla JS.
+Showcasing a dynamic frontend with an add to cart feature.
